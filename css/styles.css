@@ -1,0 +1,145 @@
+body {
+  margin: 0;
+  text-align: center;
+  font-family: 'Merriweather Sans', sans-serif;
+  background: linear-gradient(to bottom, #E4F9F5 20%, #66bfbf 100%);
+}
+
+h1 {
+  font-family: 'Gloria Hallelujah', cursive;
+  margin: 0 auto;
+  font-size: 6rem;
+  color: #66bfbf;
+  line-height: 2;
+  font-weight: bold;
+}
+
+h2 {
+  margin: 20px auto;
+  font-size: 2.5rem;
+  color: #66bfbf;
+  font-weight: normal;
+}
+
+h3 {
+  margin: 10px auto;
+  font-size: 1.5rem;
+  color: #116979;
+  font-weight: normal;
+}
+
+p {
+  color: #116979;
+}
+
+.top-container {
+  padding-top: 70px;
+  padding-bottom: 70px;
+}
+
+.middle-container {
+  height: 550px;
+}
+
+.bottom-container {}
+
+.base {
+  margin-top: 20px;
+  height: 300px;
+  width: 60%;
+}
+
+.i2d {
+  position: absolute;
+  height: 200px;
+  width: 200px;
+  left: 100px;
+  margin-top: 50px;
+}
+
+.i3d {
+  position: absolute;
+  height: 200px;
+  width: 200px;
+  left: 480px;
+  margin-top: 50px;
+}
+
+.consult {
+  position: absolute;
+  height: 200px;
+  width: 200px;
+  left: 860px;
+  margin-top: 50px;
+}
+
+.assembly {
+  position: absolute;
+  height: 200px;
+  width: 200px;
+  right: 100px;
+  margin-top: 50px;
+}
+
+.exception {
+  font-size: 2rem;
+  margin: 20px auto;
+}
+
+.i2d-text {
+  margin-top: 300px;
+  position: absolute;
+  display: inline-block;
+  left:100px;
+  text-align: center;
+}
+
+.i3d-text {
+  margin-top: 300px;
+  position: absolute;
+  display: inline-block;
+  left:490px;
+  text-align: center;
+}
+
+.consult-text {
+  margin-top: 300px;
+  position: absolute;
+  display: inline-block;
+  left:880px;
+  text-align: center;
+}
+
+.assembly-text{
+  margin-top: 300px;
+  position: absolute;
+  display: inline-block;
+  right: 100px;
+  text-align: center;
+}
+
+.footer-link{
+  display:inline-block;
+  margin-top:3px;
+  margin-bottom: 5px;
+}
+.contact-me{
+  display: inline-block;
+  margin-top:3px;
+  margin-bottom: 5px;
+}
+.copyright{
+  color:#120136;
+  font-size: 0.7rem;
+  margin: 3px auto;
+}
+
+.adress{
+  color:#120136;
+  font-size: .8rem;
+  margin: 1px auto 20px auto;
+}
+.contact{
+  color: #120136;
+  margin-bottom: 3px;
+}
